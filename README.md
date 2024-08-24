@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kamil-Orzechowski.
 - 👀 I’m interested in mathematics and languages (natural as well as formal ones).
-- 🌱 I’m currently learning Python, JavaScript and Java.
+- 🌱 I have some experience with Python, JavaScript and Java.
+- I'm currently learning Lean.
 
 <!---
 Kamil-Orzechowski/Kamil-Orzechowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
