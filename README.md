@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @Kamil-Orzechowski.
-- 👀 I’m interested in mathematics and languages (natural as well as formal ones).
-- 🌱 I have some experience with Python, JavaScript and Java.
-- I'm currently learning Lean.
+# Kamil Orzechowski
 
-<!---
-Kamil-Orzechowski/Kamil-Orzechowski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+PhD student in mathematics at the University of Rzeszów (Poland), working in pure mathematics and interested in formal proof verification
+
+## Research topics
+- non-Archimedean analysis
+- Banach–Tarski paradox
+- combinatorial and geometric group theory
+- ultrametric spaces and real trees
+
+## Interests
+- theorem proving in Lean 4
+- linguistics (natural and formal languages)
+
+## Tools
+- Lean 4
+- Python
+
+## Publications
+5 published papers + additional preprints in mathematics (see links below)
+
+## Links
+- [ORCID](https://orcid.org/0000-0003-0786-1463)
+- [arXiv](https://arxiv.org/search/math?searchtype=author&query=Orzechowski,+K)
